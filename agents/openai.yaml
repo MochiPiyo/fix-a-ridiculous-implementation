@@ -1,0 +1,3 @@
+interface:
+  display_name: "コードをまともにする方法"
+  short_description: "既存コードの不具合を生む構造を見直し、堅牢で扱いやすく改善する"
